@@ -1,0 +1,1 @@
+This is OOP home task for variant 1
